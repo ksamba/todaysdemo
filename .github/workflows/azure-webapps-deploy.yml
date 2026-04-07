@@ -11,7 +11,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_WEBAPP_NAME: tuedemo
+  AZURE_WEBAPP_NAME: demoprep
   DOTNET_VERSION: '8.0'
   PUBLISH_DIR: ./publish
 
